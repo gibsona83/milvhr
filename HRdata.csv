@@ -1,0 +1,386 @@
+name,lvhn_ascom1,employment_type,category,subspecialty,home_address2,home_e-mail,personal_cell_phone,lvhn_sui,pager,lvhn_e-mail_@lvhn.org,dob,position_id,"status
+ft/pt",benefit_eligible,elected_plan,payroll_deduction,"hsa_contributions
+er/ee",hire_date,rehire_date,termination_date,terminated
+"Ali, Sayed, M.D.",TBD,Independent Contractor,Provider,Diagnostic,"3801 Liseter Road
+Newtown Square PA 19073",sayali0815@gmail.com,484-557-9051,J0941,,Sayed.Ali,,GAF 100042,,,,,,1/1/2023 0:00,,,FALSE
+"Anum, Syeda, M.D.",8030,Employee,Provider,"Body, Neuroradiology","778 Shawmut Avenue
+Boston MA 02119",anum.s42@gmail.com,617-308-0008,J1167,,Syeda.Anum,2/1/1990 0:00,GAF 100004,FT Teleradiologist,Yes,,,,,,,FALSE
+"Aqel, Zakaria, M.D.",2374,Independent Contractor,Provider,Neuroradiology,"1707 N Market St., Apt 202
+Frederick MD 21701",zakaqel@gmail.com,313-506-2912,J1110,,Zakaria.Aqel,11/1/1989 0:00,GAF 100006,,,,,,1/1/2023 0:00,,,FALSE
+"Bemporad, Joshua, M.D.",0476,Partner,Provider,Neuroradiology,"122 North 36th Street
+Allentown PA 18104",joshbemporad@yahoo.com,610-969-5058,J0320,,Joshua_A.Bemporad,5/21/1968 0:00,GAM 100061,,,,,,7/1/2003 0:00,,,FALSE
+"Benzel, Stanley, M.D.",8094,Employee,Provider,Diagnostic,"320 Grove Street
+Teaneck NJ 07666",StanleyBenzel@gmail.com,201-259-0298,P0297,,Stanley.Benzel,,,,,,,,,,,FALSE
+"Bhardwaj, Anil, M.D. (Kumar)",9216,Employee,Provider,Diagnostic,"4002 Browning Court
+Trooper PA 19403",tinnss@yahoo.com,610-620-3631,J0712,,Anil.Bhardwaj,6/13/1964 0:00,,,,,,,,,,FALSE
+"Braunstein, Larry, M.D.",,Employee,Provider,"Diagnostic, Interventional","14 Pine Street
+Mountain Top PA 18707",braunsteinlarry@gmail.com,"570-417-1542
+570-406-1477 (s)",J5675,,Larry.Braunstein,8/10/1966 0:00,GAM 100148,,,,,,7/27/2016 0:00,,,FALSE
+"Brodsky, Michael, M.D.",2515,Independent Contractor,Provider,"Body, Neuroradiology","410 Fishers Road
+Bryn Mawr PA 19010",mcbrodsky@gmail.com,856-685-4849,J1361,,Michael.Brodsky,,,,,,,,,,,FALSE
+"Brown, Matthew, M.D.",2991,Partner,Provider,Body,"6941 Lehigh Court
+Allentown PA 18106",mbrownmd@gmail.com,206-799-8666,J2936,,Matthew_E.Brown,10/3/1978 0:00,GAM 100102,,,,,,7/15/2010 0:00,,,FALSE
+"Cavorsi, Kenneth, M.D.",2813,Partner,Provider,"Body, Cardiothoracic","1337 Reading Blvd.
+Wyomissing PA 19610",kcavorsi@hotmail.com,215-620-5162,J3809,,Kenneth_J.Cavorsi,11/8/1980 0:00,GAM 100116,,,,,,7/1/2013 0:00,,,FALSE
+"Cella, Stephen, M.D.",3862,"Partner
+[Employee 4/1/2025]",Provider,Body,"5486 Preston Way
+Doylestown PA 18902",stephencella3@gmail.com,215-833-9399,J5359,,Stephen_J.Cella,2/14/1984 0:00,GAM 100144,,,,,,7/1/2016 0:00,,,FALSE
+"Chapman, Christopher, M.D.",,Independent Contractor,Provider,Diagnostic,"3555 Santee Mill Road
+Bethlehem PA 18017
+35 Cove Lane
+Wilsboro NY 12996",cathmedfd@aol.com,610-570-8179,Z3059,,Christopher.Chapman,8/13/1952 0:00,GAF 100026,,,,,,,,,FALSE
+"Chough, Eugene, M.D.",3864,Partner,Provider,"Body, Diagnostic, 
+Mammography","6132 Blue Belle Drive
+Center Valley PA 18034",ekc19107@yahoo.com,267-971-0055,J5479,,Eugene.Chough,2/26/1972 0:00,GAM 100150,,,,,,8/1/2016 0:00,,,FALSE
+"Chu, Ahna, M.D.",1542,Employee,Provider,"Diagnostic, 
+Mammography","5860 Monocacy Drive
+Bethlehem PA 18017",aschukov06@gmail.com,610-217-3738,P4702,,Ahna.Chu,10/10/1968 0:00,,PT,No,,,,,,,FALSE
+"Cooper, Benjamin, M.D.",,Independent Contractor,Provider,"Diagnostic, MSK","915 Prince Street
+Teaneck NJ 07666",bzcoopermd@gmail.com,201-403-6370,J5644,,Benjamin_Z.Cooper,7/2/1969 0:00,GAF 100015,,,,,,1/1/2023 0:00,,,FALSE
+"Cox, John, M.D.",0395,Independent Contractor,Provider,"Body, MSK","1745 Hawthorne Road
+Bethlehem PA 18015",jfcoxmd@gmail.com,610-698-7733,P0976,,John.Cox,12/2/1954 0:00,GAM 100106,,,,,,1/1/1993 0:00,,,FALSE
+"Dandegian, Albert, M.D.",0346,Employee,Provider,"Body, MSK","2050 Pheasant Court
+Bethlehem PA 18015",adandegian@aol.com,610-442-5528,P3166,610-606-0899,Albert.Dandegian,6/25/1964 0:00,GAM 101007,,,,,,10/11/1999 0:00,,,FALSE
+"Desai, Ravi, M.D.",1060,Partner,Provider,"Body, Diagnostic, MSK","2415 Cook Drive
+Easton PA 18045",desairavi1@gmail.com,973-960-5637,J0257,,Ravi.Desai,6/14/1987 0:00,GAM 100178,,,,,,7/1/2019 0:00,,,FALSE
+"Dinsmore, Barbara, M.D.",,Employee,Provider,Body,"3046 Belvidere Road
+Phillipsburg NJ 08865",bjdinsmore@gmail.com,484-553-9681,J5482,,Barbara_J.Dinsmore,6/9/1957 0:00,GAM 100145,,,,,,7/1/2016 0:00,,,FALSE
+"Elberfeld, Gregory, M.D.",,Employee,Provider,"Diagnostic, 
+Nuclear Med","420 Stephens Road
+Orwigsburg PA 17961",gelberfeld@gmail.com,570-617-4734,J6006,,Greg.Elberfeld,2/23/1961 0:00,GAM 100155,,,,,,1/1/2017 0:00,,,FALSE
+"Enea, Ned, M.D.",,Independent Contractor,Provider,"Diagnostic, 
+Mammography","11 Surrey Drive
+Easton PA 18045",nenea@rcn.com,610-573-1953,J4313,,Ned_A.Enea,10/3/1961 0:00,GAF 100017,,,,,,1/1/2023 0:00,,,FALSE
+"Fenerty, Sarah, M.D.",,Independent Contractor,Provider,Diagnostic,"14 White Field Ct.
+Lower Gwynedd PA 19002",sarah.fenerty@gmail.com,215-534-0055,J0972,,Sarah.Fenerty,8/24/1986 0:00,GAF100041,,,,,,1/1/2023 0:00,,,FALSE
+"Fiss, John, M.D.",2553,Partner,Provider,Neuroradiology,"511 Black Gates Road
+Wilmington DE 19803",JohnFiss@yahoo.com,302-893-5170,J2078,,John_D.Fiss,11/29/1974 0:00,GAM 000086,,,,,,7/15/2007 0:00,,,FALSE
+"Fogarty, Kevin, M.D.",,Employee,Provider,"Body, Diagnostic","920 Wafford Lane
+Bethlehem PA 18017",ktfogartymd@aol.com,610-704-1410,J6108,,Kevin_T.Fogarty,9/24/1959 0:00,GAM 111226,,,,,,1/1/2023 0:00,,,FALSE
+"Fras, I. Michael, M.D.",,Partner,Provider,"Diagnostic, 
+Nuclear Med, PETCT","4304 Eisenhower Drive
+Bethlehem PA 18020",Michael_Fras@yahoo.com,614-623-1450,J5418,,I.Michael.Fras,1/23/1976 0:00,GAM 100139,,,,,,4/1/2016 0:00,,,FALSE
+"Freed, Kelly, M.D.",0424,Employee,Provider,Body,"13 Sequoia Court
+Okatie SC 29909",kfreed1623@gmail.com,"610-216-4068
+610-216-9362 (s)",P1926,,Kelly.Freed,8/10/1964 0:00,GAM 100010,,,,,,3/15/2000 0:00,,,FALSE
+"Garg, Sumita, M.D.",0860,Partner,Provider,Neuroradiology,"10 Sutton Court
+Branchburg NJ 08876",sumita.garg@outlook.com,484-225-4639,J4831,,Sumita.Garg,10/26/1976 0:00,GAM 100129,,,,,,9/15/2014 0:00,,,FALSE
+"Glenn, Margaret, M.D.",0021,Employee,Provider,Mammography,"6715 Manchester Farms Road
+Fairview PA 16415",maggieglenn1419@yahoo.com,216-408-5727,J1266,,Margaret.Glenn,4/15/1981 0:00,GAM 111230,FT Teleradiologist,Yes,EE & Children - PPO Blue Healthy Savings,$171.54 per pay,,6/24/2024 0:00,,,FALSE
+"Goldberg, Ari, M.D.",2518,Independent Contractor,Provider,Diagnostic,"3501 N. Southport Ave. Box 187
+Chicago IL 60657
+205 Pine Point Drive
+Highland Park IL 60035",aridgg@yahoo.com,215-870-0450,J0467,,Ari.Goldberg,7/3/1974 0:00,,,,,,,,,,FALSE
+"Gomez, Carrie, D.O.",,Employee,Provider,Diagnostic,"14 Tommys Ct
+Drums PA 18222",ckgomez1@gmail.com,203-515-6057,J0531,,Carrie.Gomez,11/19/1982 0:00,GAM 100203,,,,,,3/15/2021 0:00,,,FALSE
+"Gor, Devang, M.D.",0782,Partner,Provider,Neuroradiology,"125 Chatsworth Court
+Blue Bell PA 19422",radiologist@hotmail.com,908-472-0892,J1655,,Devang.Gor,8/27/1972 0:00,GAM 100079,,,,,,7/1/2006 0:00,,,FALSE
+"Greenberg, David, M.D",3187,Employee,Provider,"Body, Diagnostic, MSK","1755 Creek View Drive
+Fogelsville PA 18051",dg2rad@gmail.com,610-780-3691,J4311,,David_L.Greenberg,7/8/1964 0:00,GAM 100122,,,,,,2/14/2014 0:00,,,FALSE
+"Hammond, Alan, M.D.",5927,Partner,Provider,MSK,"4640 Fir Drive
+Nazareth PA 18064",arad.hammond03@gmail.com,267-638-8534,J2381,,Alan_R.Hammond,8/3/1969 0:00,GAM 100093,,,,,,7/1/2008 0:00,,,FALSE
+"Hanafee, Wendy, M.D.",3652,Independent Contractor,Provider,Diagnostic,"1590 Gulf Blvd, Condo 503
+Clearwater Beach FL 33767",coblestone@me.com,812-449-0516,J6158,,Wendy.Hanafee,11/24/1962 0:00,GAF 100020,,,,,,1/1/2023 0:00,,,FALSE
+"Harb, Ted, M.D.",6011,Employee,Provider,Diagnostic,"7035 Sierra Club Circle, #5303
+Naples FL 34113",tedharb@live.com,248-495-4726,J1344,,Ted.Harb,,,,,,,,,,,FALSE
+"Hearter, William, M.D.",,Employee,Provider,Body,"2 Locust Circle
+Hazleton PA 18202",wrhjr017@yahoo.com,480-390-0022,J6586,,William.Hearter,3/17/1950 0:00,GAM 100158,,,,,,6/19/2017 0:00,,,FALSE
+"Hensley, Mathew, M.D.",2061,"Partnership Track
+[Partner 2/1/2024]",Provider,"Cardiac, Diagnostic","1991 Stony Garden Road
+Kintnersville PA 18930",hensley512@gmail.com,903-701-6704,J1059,,Mathew.Hensley,5/12/1980 0:00,"GAF 100021
+GAM100257",,,,,,8/2/2023 0:00,,,FALSE
+"Himes, Nathan, M.D.",2548,Partner,Provider,Neuroradiology,"5033 Brittany Lane
+Bryn Mawr PA 19010","nate.himes@gmail.com
+(Partner Communications Only)","617-275-6397
+617-335-2017 (s)",J4823,,Nathan_C.Himes,2/29/1972 0:00,GAM 100136,,,,,,7/1/2015 0:00,,,FALSE
+"Hodavance, Michael, M.D.",2556,Partner,Provider,Interventional,"821 Prospect Avenue
+Bethlehem PA 18018",hodavance@gmail.com,919-452-4426,J6156,610-782-2748,Michael_S.Hodavance,5/14/1984 0:00,GAM 100159,,,,,,7/1/2017 0:00,,,FALSE
+"Hoffman, Errin, M.D.",0470,Partner,Provider,Interventional,"5385 Saucon Ridge Road
+Coopersburg PA 18036",errinmelissa@earthlink.net,610-295-9850,J0315,610-204-1410,Errin_J.Hoffman,5/22/1969 0:00,GAM 100060,,,,,,7/1/2003 0:00,,,FALSE
+"Huber, Stephen, M.D.",1135,Partner,Provider,Interventional,"1416 Reading Blvd
+Wyomissing PA 19610",hubers@comcast.net,610-223-9314,J1478,610-204-1989,Stephen_J.Huber,1/10/1970 0:00,GAM 100075,,,,,,8/1/2005 0:00,,,FALSE
+"Iannone, John, M.D.",1602,Employee,Provider,Neuroradiology,"125 Windsor Way
+Roaring Brook PA 18444",nsxs2000@earthlink.net,570-498-2499,J1293,,John.Iannone,,,,,,,,,,,FALSE
+"Izgur, Vitaly, M.D.",5398,Independent Contractor,Provider,Neuroradiology,"35 Bittersweet Drive
+Doylestown PA 18901",vizgur@yahoo.com,215-327-0312,S5293,,Vitaly.Izgur,5/15/1970 0:00,GAF 100022,,,,,,1/1/2023 0:00,,,FALSE
+"Jajoo, Anurita, M.D.",5297,Partner,Provider,"Body, Mammography","1840 Viola Lane
+Hellertown PA 18055",anurita.jajoo@gmail.com,484-995-5371,J1186,,Anurita.Jajoo,2/11/1970 0:00,GAM 100070,,,,,,8/16/2004 0:00,,,FALSE
+"Jiang, Feng, M.D.",6488,Independent Contractor,Provider,Neuroradiology,"578 Whitney Avenue, Apt M1
+New Haven CT 06511",fjiang9813@gmail.com,203-824-2669,J1192,,Feng.Jiang,10/18/1981 0:00,GAF 100047,,,,,,2/5/2024 0:00,,,FALSE
+"Johnson, Meredith, M.D.",1420,Partner,Provider,"Mammography, 
+Neuroradiology","557 Long Street
+Emmaus PA 18049",meredithmjjohnson@gmail.com,870-638-9244,J0701,,Meredith.Johnson,6/10/1989 0:00,GAF 100051,,,,,,8/1/2022 0:00,,,FALSE
+"Katz, Matthew, M.D.",,"Partnership Track
+[Partner 2/1/2024]",Provider,"Body, 
+Mammography","810 Thomas Street
+Stroudsburg PA 18360",mhkrads@gmail.com,617-694-3720,J1055,,Matthew.Katz,10/21/1979 0:00,"GAF 100025
+GAM 100259",,,,,,8/1/2023 0:00,,,FALSE
+"Kempf, Charles, M.D.",,Employee,Provider,"Diagnostic, 
+Mammography","2123 Great Buck Drive
+East Stroudsburg PA 18301",kkempf@verizon.net,570-421-4268,J6418,,Charles.Kempf,10/17/1951 0:00,GAM 100142,,,,,,6/30/2016 0:00,,,FALSE
+"Khiyani, Neeraj, M.D.",5737,Independent Contractor,Provider,"Body, Diagnostic","250 S. 13th Street, Apt. 6E
+Philadelphia PA 19107",neeraj.khiyani@gmail.com,954-205-4217,J1330,,Neeraj.Khiyani,,,,,,,,,,,FALSE
+"Kim, Phillip, M.D.",9252,"Partnership Track
+[Partner 2/1/2024]",Provider,Interventional,"1037 Turnstone Drive
+Fogelsville PA 18051",kimphild@gmail.com,215-680-9436,J1031,,Phillip.Kim,11/16/1987 0:00,"GAF 100027
+GAM 100258",,,,,,8/1/2023 0:00,,,FALSE
+"Kosaraju, Vijaya, M.D.",6781,Independent Contractor,Provider,MSK,"7568 Worlington Drive
+Solon OH 44139",kosaraj@gmail.com,234-400-9836,J1194,,Vijaya.Kosaraju,7/16/1975 0:00,,,,,,,,,,FALSE
+"Kothari, Neha, M.D.",2568,Partner,Provider,Pediatric,"9 Cotswold Lane
+Warren NJ 07059",nehakothmd@gmail.com,646-541-4780,J6561,,Neha.Kothari,2/11/1969 0:00,GAM 100161,,,,,,7/17/2017 0:00,,,FALSE
+"Kowal, Alexander, M.D.",9115,Partner,Provider,Pediatric,"5266 Creekview Drive
+Orefield PA 18069",amk67@me.com,617-640-9855,J3463,610-740-2710,Alexander_M.Kowal,8/2/1976 0:00,GAM 100111,,,,,,9/1/2011 0:00,,,FALSE
+"Kramer, Jeffrey, M.D.
+March 17, 2025",,Independent Contractor,,,"2139 Landis Valley Road
+Lancaster PA 17601",JPKRAMER65@gmail.com,717-808-4186,,,,,,,,,,,,,,FALSE
+"Kraus, Frederick, M.D.",7791,Employee,Provider,"Pediatric, Body","2137 Sagamore Road
+Akron OH 44313",le_colonel_kraus@hotmail.com,814-404-1790,J1239,,Frederick.Kraus,8/18/1961 0:00,GAM 111229,,,,,,4/15/2024 0:00,,,FALSE
+"Kricun, Bret, M.D.",0398,Partner,Provider,Pediatric,"5272 Creekview Drive
+Orefield PA 18069",bretkricun@hotmail.com,610-504-1231,J4594,,Bret_J.Kricun,2/13/1980 0:00,GAM 100128,,,,,,7/1/2014 0:00,,,FALSE
+"Ksepka, Martha, M.D.",3325,Partner,Provider,Mammography,"4470 Pheasant Run Ct
+Bethlehem PA 18020",ksepka.martha@gmail.com,347-268-8562,J0468,,Martha.Ksepka,2/1/1987 0:00,GAM 100199,,,,,,9/1/2020 0:00,,,FALSE
+"Kurtz, Kenneth, M.D.",5256,Partner,Provider,"Body, MSK","126 Trianon Lane
+Villanova PA 19085",kennethkurtz@gmail.com,484-222-1733,J1136,,Kenneth_S.Kurtz,6/15/1971 0:00,GAM 100066,,,,,,7/1/2004 0:00,,,FALSE
+"Lam, Joanne, M.D.",3392,Partner,Provider,Interventional,"2898 Parkview Circle
+Emmaus PA 18049",joanne.py.lam@gmail.com,917-862-1108,E4637,"610-204-1139
+(Pager ID 4639)",Joanne.Lam,9/7/1986 0:00,GAM 100197,,,,,,8/1/2020 0:00,,,FALSE
+"Laychock, Anna, M.D.",,Independent Contractor,Provider,"Diagnostic, 
+Mammography","115 Glenworth Road
+Pottsville PA 17901",abbysurf@comcast.net,570-617-9789,J6016,,Anna_M.Laychock,1/20/1954 0:00,GAF 100028,,,,,,1/1/2017 0:00,1/1/2023 0:00,,FALSE
+"Lee, Jun Wei, M.D.",6478,Independent Contractor,Provider,,"6711 Nimitz Ct.
+Katy TX 77493",jun_lee33@hotmail.com,215-847-7810,J1148,,Jun.Lee,7/3/1987 0:00,GAF 100029,,,,,,1/1/2023 0:00,,,FALSE
+"Li, Qiang, M.D.",0207,Partner,Provider,Neuroradiology,"4314 Castle Court
+Allentown PA 18103
+6 Longford Court
+Warren NJ 07059",qianglii@yahoo.com,610-462-4058,J1647,,Qiang.Li,2/5/1967 0:00,GAM 100078,,,,,,1/16/2006 0:00,,,FALSE
+"Longo, Victor, D.O.",2736,Partner,Provider,"Diagnostic, MSK","1421 Saratoga Circle
+Breinigsville PA 18031",victor.longoiii@gmail.com,610-248-8389,E3079,,Victor.LongoIII,6/29/1979 0:00,GAM 100180,,,,,,9/23/2019 0:00,,,FALSE
+"Lyall, Ashima, M.D.",3865,Partner,Provider,"Mammography, 
+Nuclear Med, PETCT","259 Cobblestone Lane
+Bethlehem PA 18020",ashimalyall@gmail.com,507-254-0549,J5478,,Ashima.Lyall,7/14/1979 0:00,GAM 100149,,,,,,8/1/2016 0:00,,,FALSE
+"Malhotra, Amit, M.D.",,Independent Contractor,Provider,"Diagnostic, MSK","2003 McFall Street
+McLean VA 22101",amitm18@yahoo.com,516-587-2349,Z1581,,Amit.Malhotra,7/18/1979 0:00,GAF 100003,,,,,,5/1/2022 0:00,1/1/2023 0:00,,FALSE
+"Malik, Javed, M.D.",3381,Employee,Provider,Body,"260 S Egg Street
+Bath PA 18014",jmalikmd@yahoo.com,610-608-7423,J0465,,Javed.Malik,1/3/1966 0:00,GAM 100250,,,,,,1/1/2023 0:00,,,FALSE
+"Mambalam, Pramod, M.D.",3455,Partner,Provider,"Diagnostic, MSK, 
+Mammography","1841 Penns Xing
+Allentown PA 18104",kumar359@gmail.com,267-250-6693,J4818,,Pramod_K.Mambalam,2/21/1980 0:00,GAM 100130,,,,,,9/22/2014 0:00,,,FALSE
+"Martucci, J. Christopher, M.D.",5928,Partner,Provider,Body,"367 Clearview Avenue
+Nazareth PA 18064",jchrismartucci@gmail.com,610-716-3844,J2361,,Christophe.Martucci,12/3/1974 0:00,GAM 100094,,,,,,7/14/2008 0:00,,,FALSE
+"McCambridge, Joshua, M.D.",2418,Partner,Provider,Neuroradiology,"2711 Monacacy Road
+Nazareth PA 18064",jmccambridge123@gmail.com,610-533-2904,E4638,,Joshua.McCambridge,6/27/1988 0:00,GAM 100189,,,,,,7/8/2020 0:00,,,FALSE
+"McEvoy, Robert, M.D.",1437,Partner,Provider,"Diagnostic, Neuroradiology","2339 Overlook Drive
+Bethlehem PA 18017",rpmcevoy2@gmail.com,610-533-4725,E4279,,Robert.Mcevoy2,1/28/1984 0:00,GAM 100241,,,,,,8/15/2022 0:00,,,FALSE
+"Myers, Ross, M.D.",2431,Partner,Provider,Pediatric,"1687 Kevin Drive, 
+Bethlehem PA 18015",ram5539@gmail.com,717-471-0920,J0448,,Ross.Myers,2/20/1987 0:00,GAM 100191,,,,,,7/13/2020 0:00,,,FALSE
+"Nasser, Hussein, M.D.",1454,Partner,Provider,Neuro-Interventional,"1436 Hampton Road
+Allentown PA  18104",husseinnassermd@gmail.com,610-999-4449,E4298,,Hussein.Nasser,9/6/1987 0:00,GAM 100239,,,,,,7/13/2022 0:00,,,FALSE
+"Newatia, Amit, M.D.",2549,Independent Contractor,Provider,"Body, MSK","8310 Still Spring Ct
+Bethesda MD 20817",amnew1@gmail.com,917-379-7365,J1096,,Amit.Newatia,7/12/1976 0:00,GAF 100050,,,,,,10/1/2023 0:00,,,FALSE
+"Newcomb, James, M.D.",0396,Partner,Provider,Interventional,"1425 Princeton Court
+Allentown PA 18104",radnewks@mac.com,610-392-0314,P0081,610-204-1412,James.Newcomb,7/6/1959 0:00,GAM 110128,,,,,,1/1/1993 0:00,,,FALSE
+"Nguyen, Joseph, M.D.",8402,Independent Contractor,Provider,Neuroradiology,"701 West Creekside Drive
+Houston TX 77024",josephvnguyenmd@gmail.com,713-291-4524,J1113,,Joseph.Nguyen,7/2/1975 0:00,GAF 100031,,,,,,1/1/2023 0:00,,,FALSE
+"Osborne, Mark, M.D.",8097,Partner,Provider,Neuroradiology,"5539 Roberts Road
+Schnecksville PA 18078",maosborne1@gmail.com,484-273-5000,P0775,,Mark.Osborne,9/19/1955 0:00,GAM 110129,,,,,,7/1/1988 0:00,,,FALSE
+"Osmani, Mohammed, D.O.",1196,Employee,Provider,Neuroradiology,"3995 Rittenhouse Street
+Frisco TX 75034",Osmani.Mohammed78@gmail.com,201-424-6484,J1306,,Mohammed.Osmani,5/23/1991 0:00,GAF 100034,,,,,,1/1/2023 0:00,,,FALSE
+"Platnick, Joseph, M.D.
+April 2025",,Employee,Provider,Neuroradiology,"Hamaggid Mimezrich 7/1
+Bet Shemesh, Israel 9964625",jplatnick@gmail.com,347-678-4583,,,,,,,,,,,,,,FALSE
+"Priamo, Francesco, M.D.",2726,Partner,Provider,Neuroradiology,"73 Dogwood Lane
+New Providence NJ 07974",priamodownstate@gmail.com,917-293-5150,J0085,,Francesco_A.Priamo,10/8/1986 0:00,GAM 100167,,,,,,7/1/2018 0:00,,,FALSE
+"Price, Gregory, M.D.",0552,Employee,Provider,"Body, Diagnostic","2609 Pearsons Corner Road
+Dover DE 19904
+11 West 2nd Street, Unit 360
+Bethlehem PA 18015",slowhorse59@comcast.net,"302-670-2322
+302-670-2564 (s)",P2550,,Gregory.Price,6/9/1959 0:00,GAM 100035,,,,,,7/1/2001 0:00,,,FALSE
+"Pryluck, David, M.D.",5326,Employee,Provider,Interventional / Residency Program,"2812 Clos Renoir 
+Bethlehem PA 18015",davidpryluckmd@gmail.com,917-692-1904,J1231,,,10/22/1977 0:00,GAM 100261,,,,,,4/1/2024 0:00,,,FALSE
+"Pysher, Lance, M.D.",,Independent Contractor,Provider,Mammography,"923 Sleeping Child Road
+Hamilton MT 59840",lpysher@mac.com,406-381-4483,J0665,,Lance.Pysher,7/25/1965 0:00,GAF 100046,,,,,,1/1/2023 0:00,,,FALSE
+"Robb, Marie, M.D.",,Independent Contractor,Provider,"Diagnostic, 
+Mammography","17 Fox Hunt Circle
+Plymouth Meeting PA 19462",certafamily@mac.com,484-535-0368,P5387,,Marie.Robb,9/3/1956 0:00,GAF 100039,,,,,,1/1/2023 0:00,,,FALSE
+"Rodriguez, Pavel, M.D.",1126,Independent Contractor,Provider,"Diagnostic, Neuroradiology","11260 Wallingsford Road
+Los Alamitos CA 90720",rodriguez.pavel@gmail.com,210-618-2015,J1085,,Pavel.Rodriguez,4/7/1985 0:00,GAF 100035,,,,,,1/1/2023 0:00,,,FALSE
+"Roman, Nancy, M.D.",,Employee,Provider,Mammography,"795 Benner Road
+Allentown PA 18104",nancyomd1@gmail.com,484-431-5323,J2133,,Nancy_V.Roman,10/7/1965 0:00,GAM 100087,,,,,,8/1/2007 0:00,,,FALSE
+"Sarada, Kamal, M.D.",,Independent Contractor,Provider,Diagnostic,"12 Kipling Drive
+Moosic PA 18507",kmlsrd@gmail.com,551-998-2776,J0869,,Kamal.Sarada,3/3/1966 0:00,GAF 100049,,,,,,1/1/2023 0:00,,,FALSE
+"Sareen, Priya, M.D.
+January 24, 2025",,Partner,Provider,Mammography,"2950 Kristin Court
+Center Valley PA 18034",drpriyasareen@gmail.com,610-931-3065,J2638,,Priya_K.Sareen,,,,,,,,,,,FALSE
+"Schubach, Sharon, M.D.",2449,Employee,Provider,Mammography,"4166 Fawn Trail Road
+Allentown PA 18104",sjschubach@aol.com,484-225-1331,P9742,,Sharon.Schubach,7/19/1964 0:00,GAM 100248,,,,,,12/12/2022 0:00,,,FALSE
+"Shaff, Darryn, M.D.",8299,Partner,Provider,Neuro-Interventional,"3773 Pennbrook Way
+Allentown PA 18104",zachras@gmail.com,"610-662-0588
+610-659-9810 (s)",P4824,610-204-0199,Darryn.Shaff,8/23/1965 0:00,GAM 100140,,,,,,7/1/1999 0:00,,,FALSE
+"Shelat, Nirav, D.O.",,Independent Contractor,Provider,"Diagnostic, Mammography","328 Cobblers Court
+Lititz PA 17543",nirav.shelat@gmail.com,856-472-5254,J1049,,Nirav.Shelat,5/27/1983 0:00,GAF 100040,,,,,,1/1/2023 0:00,,,FALSE
+"Shiloh, Aaron, M.D",,Independent Contractor,Provider,Diagnostic,"61 Brown Drive
+Churchville PA 18966",aoshiloh@gmail.com,215-519-4294,Z3117,,Aaron.Shiloh,1/17/1972 0:00,GAF 100001,,,,,,1/1/2023 0:00,,,FALSE
+"Singh, Vijay, M.D.",9496,Employee,Provider,Diagnostic,"109 Olive Lane
+New Hyde Park NY 11040",vijaysinghmd@gmail.com,917-670-1813,J0828,,Vijay.Singh,6/25/1977 0:00,GAM 000243,,,,,,9/19/2022 0:00,,,FALSE
+"Spina, Michael, M.D.",2379,Partner,Provider,Neuroradiology,"812 Briarwood Road
+Newtown Square PA 19073",MichaelJSpina@yahoo.com,215-292-3481,J0372,,Michael.Spina,12/6/1980 0:00,GAM 100179,,,,,,9/1/2019 0:00,,,FALSE
+"Stallman, Jamie, M.D.",1636,Partnership Track,Provider,"Neuroradiology, Mammography","1631 North Washington Avenue
+Scranton PA 18509",jamie.stallman@gmail.com,570-815-6912,J1240,,,12/4/1970 0:00,GAM 111233,FT  hybrid / Partner track,Yes,PPO Blue Healthy Savings / Family Coverage,$275.30 / pay,,7/1/2024 0:00,,,FALSE
+"Steltz, Michael, M.D.",1783,Employee,Provider,"Diagnostic, 
+Mammography","7070 Eagleview Road
+Mohrsville PA 19541",mikesteltz@comcast.net,610-212-2044,Z3121,,Michael.Steltz,9/15/1953 0:00,GAM 111232,FT Employee,Yes,Waive medical  - elected dental/vision (On medicare),,,7/1/2024 0:00,,,FALSE
+"Stempel, Kevin, M.D.",3154,Employee,Provider,"Diagnostic, 
+Mammography","5010 Farmview Drive
+Schnecksville PA 18078",kjjm@ptd.net,610-769-7411 (Home),J4659,,Kevin_B.Stempel,12/28/1955 0:00,GAM 100127,,,,,,6/16/2014 0:00,,,FALSE
+"Storace, Mitchell, M.D.",5284,Partner,Provider,Interventional,"3300 Muirfield Road
+Center Valley PA 18034",storacem@gmail.com,203-984-2457,J0136,,Mitchell.Storace,8/9/1985 0:00,GAM 101170,,,,,,7/18/2018 0:00,,,FALSE
+"Tatli, Servet, M.D.",3861,Partner,Provider,Body,"65 Lafayette Circle
+Totowa NJ 07512",tatliservet@gmail.com,617-953-9711,J5617,,Servet.Tatli,4/22/1967 0:00,GAM 101147,,,,,,7/7/2016 0:00,,,FALSE
+"Toote, Christopher, M.D.",1587,Partnership Track,Provider,Interventional,"4063 Yorktown Road
+Coopersburg PA 18036",christopher.toote2@gmail.com,717-856-0515,J1284,,Christopher.Toote,,,,,,,,,,,FALSE
+"Trevisan, Susan, M.D.",,Employee,Provider,Mammography,"26 East Springfield Avenue
+Philadelphia PA 19118",suetrev@aol.com,267-984-2302,J1410,,Susan_G.Trevisan,2/7/1962 0:00,GAM 100071,,,,,,9/29/2004 0:00,,,FALSE
+"Tunacao, Jessa, M.D.",1683,Partnership Track,Provider,"Neuroradiology, MSK, Body","1487 Cambridge Place
+Bensalem PA 19020",jessa.m.tunacao@gmail.com,267-918-6612,J1273,,,,,,,,,,,,,FALSE
+"VanBlargan, Mark, D.O.",6888,Independent Contractor,Provider,"Diagnostic, 
+Mammography","13 Grant Street, PO Box 902
+Conyngham PA 18219",mvan@frontier.com,570-956-4431,J0311,,Mark.VanBlargan,1/18/1960 0:00,GAF 100036,,,,,,1/1/2023 0:00,,,FALSE
+"Verma, Rahul, M.D.
+April 5, 2025",2457,Partner,Provider,Mammography,"2890 Hawk Valley Court
+Center Valley PA 18043",rahulverma045@gmail.com,484-467-0636,J0453,,Rahul.Verma,,,,,,,,,,,FALSE
+"Vichnin, Michael, M.D.",0779,Partner,Provider,"Body, Pediatric","1370 Tanglewood Drive
+North Wales PA 19454",mcvichnin@aol.com,215-850-2438,J0259,,Michael.Vichnin,12/3/1970 0:00,GAM 100053,,,,,,7/15/2002 0:00,,,FALSE
+"Walia, Rohit, M.D.",0584,Partner,Provider,"Nuclear Med, PETCT","1610 Valley Glen Road
+Elkins Park PA 19027",rohitwalia@hotmail.com,412-320-1681,J0256,,Rohit.Walia,2/25/1973 0:00,GAM 100176,,,,,,3/1/2019 0:00,,,FALSE
+"Wallach, Adam, M.D.",2072,Partner,Provider,Neuroradiology,"610 Limeport Road
+Emmaus PA 18049",wallach.adam@gmail.com,347-220-3345,J3255,,Adam_P.Wallach,8/12/1974 0:00,GAM 100107,,,,,,3/16/2011 0:00,,,FALSE
+"Wassef, Shafik, M.D",,Independent Contractor,Provider,Diagnostic,"14191 NW 166th Terrace, Unit 2
+Alachua FL 32615",shafik.wassef@gmail.com,319-535-0465,J0647,,Shafik.Wassef,,GAF 100043,,,,,,1/1/2023 0:00,,,FALSE
+"Williams, Robert, M.D.",3867,Partner,Provider,Neuro-Interventional,"1990 Velvet Trail Lane
+Hellertown PA 18055",rlucwilliams@hotmail.com,412-580-1711,J5619,610-204-0632,Robert_L.Williams,10/10/1963 0:00,GAM 000153,,,,,,10/18/2016 0:00,,,FALSE
+"Young, Wen, M.D.",5257,Partner,Provider,"Nuclear Med, PET/CT","3365 Bay Hill Drive South
+Center Valley PA 18034",wenyoung3@yahoo.com,610-653-3106,J1163,,Wen.Young,8/31/1971 0:00,GAM 100069,,,,,,7/19/2004 0:00,,,FALSE
+"Zicherman, Barry, M.D.",8277,Independent Contractor,Provider,Diagnostic,"60 Tournament Drive
+Monroe Township NJ 08831",baz1015@verizon.net,609-902-6659,J0494,,Barry.Zicherman,10/15/1941 0:00,GAF 100007,,No,,,,9/8/2020 0:00,,,FALSE
+"Zicherman, Jason, M.D.",0391,Partner,Provider,Neuroradiology,"3736 West Washington Street
+Allentown PA 18104",zicherja@yahoo.com,703-483-0546,J2355,,Jason_M.Zicherman,8/19/1974 0:00,GAM 100092,,,,,,7/1/2008 0:00,,,FALSE
+"Zielinski, Michelle, D.O.",0144,Employee,Provider,Neuroradiology,"5390 Pierda Vista Street
+Colorado Springs CO 80908",mlz1025@gmail.com,719-251-9898,S0296,,Michelle.Zielinski,10/6/1973 0:00,GAM 100260,,,,,,9/5/2023 0:00,,,FALSE
+"Billig, Brian, CRNP",0474,Employee,Physician Extender,,"5125 Madonna Drive
+New Tripoli PA 18066",BCBillig@yahoo.com,484-357-5563,L4329,,Brian.Billig,10/8/1980 0:00,GAM 100135,,,,,,1/15/2015 0:00,,,FALSE
+"Cederberg, Dave, PA-C",0417,Employee,Physician Extender,,"7078 Tuscany Drive
+Macungie PA 18062",dsceder@gmail.com,610-751-6655,A0791,,David.Cederberg,12/1/1961 0:00,GAM 100114,,,,,,5/14/2012 0:00,,,FALSE
+"Desko, Celene, PA-S",5318,Employee,Physician Extender,,"551 Lena Circle, Apt. 105
+Fogelsville PA 18051",celenerosa97@gmail.com,267-337-4559,L0664,,Celene.Desko,7/10/1997 0:00,GAM 101042,,,,,,12/27/2023 0:00,,,FALSE
+"Edelman, Jenna, PA-C",3863,Employee,Physician Extender,,"3505 Carbon Street
+Whitehall PA 18052",jnedance10@gmail.com,610-597-8142,L0409,,Jenna.Edelman,10/8/1994 0:00,GAM 100219,,,,,,11/16/2021 0:00,,,FALSE
+"Kreitz, Elizabeth, PA-C",1029,Employee,Physician Extender,,"1574 W. Leesport Road
+Leesport PA 19533",kissingerelizabeth5@gmail.com,610-401-1855,S2539,,Elizabeth.Kissinger,5/24/1995 0:00,GAM 100173,,,,,,10/31/2018 0:00,,,FALSE
+"Lieberman, Amanda, PA-C",0849,Employee,Physician Extender,,"4496 Linda Lane
+Emmaus PA 18049",dokface04@aol.com,484-223-8602,L1711,,Amanda_R.Lieberman,2/17/1982 0:00,GAM 100115,,,,,,5/29/2012 0:00,,,FALSE
+"Minchew, Carin, PA-C",484-884-1709,Employee,Physician Extender,,"4583 Fairway Road
+Bethlehem PA 18020",carin.minchew@gmail.com,908-433-3338,L3456,,Carin_M.Minchew,7/15/1984 0:00,GAM 100160,,,,,,7/17/2017 0:00,,,FALSE
+"Moyer, Kourtney, RRA",1050,Employee,Physician Extender,,"620 Union Street
+Peckville PA 18452",kourtneymarie12210@gmail.com,570-417-9954,L0731,,Kourtney.Moyer,11/12/1982 0:00,GAM 111235,FT,Yes,Waive all coverage,,,7/8/2024 0:00,,,FALSE
+"Philips, Brian, FNP-BC",5115,Employee,Physician Extender,,"35 Lower Way Road
+Easton PA 18045",bdphilips@yahoo.com,917-836-7574,Z1744,,Brian.Philips,10/16/1973 0:00,GAM 100143,,,,,,1/8/2024 0:00,,,FALSE
+"Rudoi, Sergio, PA-C",5630,Employee,Physician Extender,,"7186 Tuscany Drive
+Macungie PA 18062",sergio@ptd.net,610-730-8898,A1547,,Sergio.Rudoi,5/1/1971 0:00,GAM 100098,,,,,,3/2/2009 0:00,,,FALSE
+"Skokan, Lindsey, PA-C",2060,Employee,Physician Extender,,"5265 Rockrose Ln, Bldg A34
+Allentown PA 18103",lindseymskokan@gmail.com,714-292-0680,G8662,,Lindsey.Skokan,1/30/1997 0:00,GAM 101225,,,,,,10/31/2023 0:00,,,FALSE
+"Stout, Janice, CRNP",2409,Employee,Physician Extender,,"540 Churchill Lane
+Allentown PA 18106",jawstout@yahoo.com,610-509-8351,A2461,,Janice.Stout,12/23/1969 0:00,GAM 100163,,,,,,8/1/2017 0:00,,,FALSE
+"Tartar, Desiree, FNP-C",1339,Employee,Physician Extender,,"230 Green Forest Lane
+Lehighton PA 18235",dltartar16@hotmail.com,610-509-7553,L0068,,Desiree_L.Tartar,6/16/1986 0:00,GAM 100183,,,,,,11/1/2019 0:00,,,FALSE
+"Bailey, Yvette, M.D.",,,,,,,,,,,,,,,,,,,,4/17/2024 0:00,TRUE
+"Bannon, Kevin, M.D.",,,,,,,,,,,,,,,,,,,,12/31/2022 0:00,TRUE
+"Baxter, Blaise, M.D.",,Independent Contractor,,,"100 Market Street, Unit 304
+Chattanooga TN 37402",,,,,,1/16/1963 0:00,GAF 100008,,,,,,,,8/31/2024 0:00,TRUE
+"Belman, Alexander (Deceased)",,,,,,,,,,,,,,,,,,,,,TRUE
+"Benson, John, M.D.",,,,,,,,,,,,,,,,,,,,3/3/2023 0:00,TRUE
+"Blinder, Jeffrey, M.D.",,,,,,,,,,,,,,,,,,,,12/31/2022 0:00,TRUE
+"Brown, Christopher",,,,,,,,,,,,,,,,,,,,12/31/2016 0:00,TRUE
+"Burke, Dana, M.D.",,,,,,,,,,,,,,,,,,,,1/24/2024 0:00,TRUE
+"Campeas, Susan, M.D.",,,,,,,,,,,,,,,,,,,,5/24/2024 0:00,TRUE
+"Cavanaugh, Barbara, M.D.",,,,,,,,,,,,,,,,,,,,10/27/2023 0:00,TRUE
+"Chin, Xing Shun, M.D.",,,,,,,,,,,,,,,,,,,,3/15/2023 0:00,TRUE
+"Ciotola, Joseph (LVHN)",,,,,,,,,,,,,,,,,,,,6/30/2017 0:00,TRUE
+"Conners, Christopher (Deceased)",,,,,,,,,,,,,,,,,,,,,TRUE
+"Daniel, Dalton, M.D.",,,,,,,,,,,,,,,,,,,,2/7/2020 0:00,TRUE
+"Dex, Walter",,,,,,,,,,,,,,,,,,,,,TRUE
+"Fayz, Frank, M.D.",,,,,,,,,,,,,,,,,,,,10/3/2023 0:00,TRUE
+"Feczko, Peter",,,,,,,,,,,,,,,,,,,,,TRUE
+"Fitzsimons, Thomas",,,,,,,,,,,,,,,,,,,,,TRUE
+"Friedenberg, Steven",,,,,,,,,,,,,,,,,,,,,TRUE
+"Gallagher, James, M.D. (Deceased)",,,,,,,,,,,,,,,,,,,,3/2/2023 0:00,TRUE
+"Geller, Michael",,,,,,,,,,,,,,,,,,,,,TRUE
+"Griska, Linda",,,,,,,,,,,,,,,,,,,,,TRUE
+"Gubernick, Julie, M.D.",,,,,,,,,,,,,,,,,,,,,TRUE
+"Guelfguat, Mark",,,,,,,,,,,,,,,,,,,,,TRUE
+"Gunnarsen, Nels, M.D.",,Medicus,,,,,,,,,,,,,,,,,,10/21/2024 0:00,TRUE
+"Harris, Kenneth, M.D.",,,,,,,,,,,,,,,,,,,,,TRUE
+"Jaffe, James",,,,,,,,,,,,,,,,,,,,,TRUE
+"Kane, Vivien, M.D.",,,,,,,,,,,,,,,,,,,,8/31/2018 0:00,TRUE
+"Kaplan, Steven",,,,,,,,,,,,,,,,,,,,,TRUE
+"Kearns, Martha, M.D.",,Employee,,,"23 Briarwood Place
+Fargo ND 58104
+8989 Baywatch Trail NW
+Walker MN 56484",,,,,,9/21/1970 0:00,GAM 000224,FT,Yes,,,,,,9/30/2024 0:00,TRUE
+"Khasat, Vikram, D.O.",,,,,,,,,,,,,,,,,,,,3/31/2017 0:00,TRUE
+"Kozirovsky, Yelena, M.D.",,,,,,,,,,,,,,,,,,,,,TRUE
+"Kricun, Robert, M.D.",,,,,,,,,,,,,,,,,,,,12/31/2017 0:00,TRUE
+"Kunz, Harold",,,,,,,,,,,,,,,,,,,,,TRUE
+"Kurtz, Alfred",,,,,,,,,,,,,,,,,,,,,TRUE
+"Lala, Sonali, M.D.",,,,,,,,,,,,,,,,,,,,5/24/2019 0:00,TRUE
+"Lee, Norman, M.D. (Locum with Jackson & Coker)",,,,,,,,,,,,,,,,,,,,3/11/2022 0:00,TRUE
+"Leet, Thomas",,,,,,,,,,,,,,,,,,,,,TRUE
+"Lin, Zwu-Shin",,,,,,,,,,,,,,,,,,,,,TRUE
+"Mandelker, Eiran, M.D.",,,,,,,,,,,,,,,,,,,,4/30/2022 0:00,TRUE
+"Martin, Patricia, M.D.",,,,,,,,,,,,,,,,,,,,10/6/2023 0:00,TRUE
+"Mazzie, Joseph, M.D.",,,,,,,,,,,,,,,,,,,,DID NOT START,TRUE
+"McClelland, Andrew, M.D.",,,,,,,,,,,,,,,,,,,,6/14/2019 0:00,TRUE
+"Moch, Anne",,,,,,,,,,,,,,,,,,,,,TRUE
+"Mohan, Brij, M.D.",,,,,,,,,,,,,,,,,,,,2017,TRUE
+"Mohiuddin, Sohaib, M.D.",,Partner,,,"7 Silvers Lane S
+Cranbury NJ 08512",,,,,,9/5/1980 0:00,GAM 100177,,,,,,,,12/31/2024 0:00,TRUE
+"Molitor, Jerome, M.D.",,,,,,,,,,,,,,,,,,,,1/29/2019 0:00,TRUE
+"Newman, Heather, M.D.",,,,,,,,,,,,,,,,,,,,6/30/2019 0:00,TRUE
+"Ng, Su Ann, M.D.",,,,,,,,,,,,,,,,,,,,11/30/2023 0:00,TRUE
+"Ostermann, E. Theodore, M.D.",,,,,,,,,,,,,,,,,,,,6/30/2024 0:00,TRUE
+"Patel, Kunal, M.D.",,Employee,,,"1813 Windswept Circle
+Dover DE 19901",,,,,,11/30/1985 0:00,GAM 111231,FT Teleradiologist,Yes,,,,,,11/20/2024 0:00,TRUE
+"Patel, Neil, M.D.",,,,,,,,,,,,,,,,,,,,9/6/2020 0:00,TRUE
+"Patel, Praneil, M.D.",,,,,,,,,,,,,,,,,,,,9/4/2020 0:00,TRUE
+"Patten, Donald",,,,,,,,,,,,,,,,,,,,,TRUE
+"Pearce, John",,,,,,,,,,,,,,,,,,,,,TRUE
+"Philips, S. Mathew, M.D.",,,,,,,,,,,,,,,,,,,,8/11/2017 0:00,TRUE
+"Polesuk, Brian, M.D.",,,,,,,,,,,,,,,,,,,,7/1/2024 0:00,TRUE
+"Raj, David, M.D.",,,,,,,,,,,,,,,,,,,,12/31/2022 0:00,TRUE
+"Reinhart, Robert, M.D.",,,,,,,,,,,,,,,,,,,,2/9/2018 0:00,TRUE
+"Rienzo, Robert, M.D.",,,,,,,,,,,,,,,,,,,,7/1/2022 0:00,TRUE
+"Rosenberg, Howard, M.D.",,Independent Contractor,,,"7510 Monte Verde Lane
+West Palm Beach FL 33412",,,,,,3/1/1952 0:00,"GAF 100040
+GAM 100038",,No,,,,,,9/30/2024 0:00,TRUE
+"Shahin, Islam",,,,,,,,,,,,,,,,,,,,,TRUE
+"Shoemaker, Elliot, M.D.",,,,,,,,,,,,,,,,,,,,8/31/2017 0:00,TRUE
+"Sledz, Ann Marie",,,,,,,,,,,,,,,,,,,,,TRUE
+"Spektor, Vadim, M.D.",,,,,,,,,,,,,,,,,,,,1/12/2020 0:00,TRUE
+"Streibert, Claire, M.D. (Locum with All Star)",,,,,,,,,,,,,,,,,,,,2/14/2023 0:00,TRUE
+"Streubert, G. Edward",,,,,,,,,,,,,,,,,,,,,TRUE
+"Sundararajan, Srihari, M.D.",,,,,,,,,,,,,,,,,,,,12/31/2022 0:00,TRUE
+"Swank, Mark, M.D.",,,,,,,,,,,,,,,,,,,,5/31/2021 0:00,TRUE
+"Syed, Zeba",,,,,,,,,,,,,,,,,,,,,TRUE
+"Takahashi, Guy",,,,,,,,,,,,,,,,,,,,,TRUE
+"Thakur, Guatam, M.D.",,,,,,,,,,,,,,,,,,,,,TRUE
+"Tirada, Nikki, M.D.",,,,,,,,,,,,,,,,,,,,11/8/2023 0:00,TRUE
+"Urbine, Jacqueline, M.D.",,,,,,,,,,,,,,,,,,,,4/24/2023 0:00,TRUE
+"Vincenti, Kerri, M.D.",,,,,,,,,,,,,,,,,,,,7/12/2022 0:00,TRUE
+"Wallace, Luisa, M.D.",,,,,,,,,,,,,,,,,,,,1/8/2020 0:00,TRUE
+"Wang, Eric",,,,,,,,,,,,,,,,,,,,,TRUE
+"Weinstein, Allen",,,,,,,,,,,,,,,,,,,,,TRUE
+"Win, William, M.D.",,Partner,,,"1350 Doe Trail Road
+Allentown PA 18104",,,,,,6/7/1978 0:00,GAM 100138,FT,Yes,,,,,,9/30/2024 0:00,TRUE
+"Wolson, Alan (Deceased)",,,,,,,,,,,,,,,,,,,,,TRUE
+"Yeager, Bradford, M.D.",,,,,,,,,,,,,,,,,,,,2/28/2019 0:00,TRUE
+"Zhang, Kan, M.D.",,,,,,,,,,,,,,,,,,,,DID NOT START,TRUE
+"Zoshak, John, D.O.",,,,,,,,,,,,,,,,,,,,12/31/2018 0:00,TRUE

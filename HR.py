@@ -27,9 +27,9 @@ def load_data():
     directory_data.columns = directory_data.columns.str.strip().str.lower().str.replace("\n", "_")
     terminated_data.columns = terminated_data.columns.str.strip().str.lower().str.replace("\n", "_")
     
-    # Ensure 'name' column is present in terminated_data
-    if "full_name" in terminated_data.columns:
-        terminated_data.rename(columns={"full_name": "name"}, inplace=True)
+    # Rename "milv radiologist" to "name" in terminated_data
+    if "milv radiologist" in terminated_data.columns:
+        terminated_data.rename(columns={"milv radiologist": "name"}, inplace=True)
     
     return hr_data, provider_data, directory_data, terminated_data
 
@@ -57,8 +57,6 @@ with tab2:
         terminated_data_filtered = terminated_data.copy()
         if name_filter:
             terminated_data_filtered = terminated_data_filtered[terminated_data_filtered['name'].str.contains(name_filter, case=False, na=False)]
-        if category_filter:
-            terminated_data_filtered = terminated_data_filtered[terminated_data_filtered['category'].isin(category_filter)]
         st.dataframe(terminated_data_filtered)
     else:
         st.warning("The 'name' column is missing from the Terminated Employees dataset.")

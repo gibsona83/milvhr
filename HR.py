@@ -36,38 +36,28 @@ hr_data, provider_data, directory_data, terminated_data = load_data()
 name_filter = st.sidebar.text_input("Search by Name")
 category_filter = st.sidebar.multiselect("Filter by Category", hr_data['category'].dropna().unique())
 employment_type_filter = st.sidebar.multiselect("Employment Type", hr_data['employment_type'].dropna().unique())
-location_filter = st.sidebar.multiselect("Location", hr_data['location'].dropna().unique())
+status_filter = st.sidebar.multiselect("Employment Status (FT/PT)", hr_data['status_ft/pt'].dropna().unique())
+terminated_filter = st.sidebar.radio("Filter by Active/Terminated", ["All", "Active", "Terminated"])
 
-# Tabs for Active vs Terminated Employees
-tab1, tab2 = st.tabs(["Active Employees", "Terminated Employees"])
+# Apply Filters
+filtered_data = hr_data.copy()
 
-with tab1:
-    st.subheader("Active Employee Directory")
-    active_data = hr_data[hr_data['terminated'] == False]
-    
-    # Apply Filters
-    if name_filter:
-        active_data = active_data[active_data['name'].str.contains(name_filter, case=False, na=False)]
-    if category_filter:
-        active_data = active_data[active_data['category'].isin(category_filter)]
-    if employment_type_filter:
-        active_data = active_data[active_data['employment_type'].isin(employment_type_filter)]
-    if location_filter:
-        active_data = active_data[active_data['location'].isin(location_filter)]
-    
-    st.dataframe(active_data)
+if name_filter:
+    filtered_data = filtered_data[filtered_data['name'].str.contains(name_filter, case=False, na=False)]
+if category_filter:
+    filtered_data = filtered_data[filtered_data['category'].isin(category_filter)]
+if employment_type_filter:
+    filtered_data = filtered_data[filtered_data['employment_type'].isin(employment_type_filter)]
+if status_filter:
+    filtered_data = filtered_data[filtered_data['status_ft/pt'].isin(status_filter)]
+if terminated_filter == "Active":
+    filtered_data = filtered_data[filtered_data['terminated'] == False]
+elif terminated_filter == "Terminated":
+    filtered_data = filtered_data[filtered_data['terminated'] == True]
 
-with tab2:
-    st.subheader("Terminated Employee Directory")
-    if "name" in terminated_data.columns:
-        terminated_data_filtered = terminated_data.copy()
-        
-        if name_filter:
-            terminated_data_filtered = terminated_data_filtered[terminated_data_filtered['name'].str.contains(name_filter, case=False, na=False)]
-        
-        st.dataframe(terminated_data_filtered)
-    else:
-        st.warning("The 'name' column is missing from the Terminated Employees dataset.")
+# Display Filtered Data
+st.subheader("Employee Directory")
+st.dataframe(filtered_data)
 
 # HR Metrics
 st.subheader("HR Metrics")

@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import sqlite3
 from PIL import Image
 
 # Load Logo
@@ -13,16 +12,14 @@ st.set_page_config(page_title="MILV HR Dashboard", layout="wide")
 st.sidebar.image(logo, width=150)
 st.sidebar.header("Filters")
 
-# Load Data from SQLite
+# Load Data from CSV
 @st.cache_data
 def load_data():
-    conn = sqlite3.connect("HR.db")
-    hr_data = pd.read_sql("SELECT * FROM hr_data", conn)
-    provider_data = pd.read_sql("SELECT * FROM provider_data", conn)
-    directory_data = pd.read_sql("SELECT * FROM directory_data", conn)
-    terminated_data = pd.read_sql("SELECT * FROM terminated_data", conn)
-    conn.close()
-
+    hr_data = pd.read_csv("HRdata.csv")
+    provider_data = pd.read_excel("MILV - Provider Worksheet.xlsx")
+    directory_data = pd.read_excel("MILV HR Directory.xlsx")
+    terminated_data = pd.read_excel("Terminated Radiologists.xlsx")
+    
     # Standardize column names
     for df in [hr_data, provider_data, directory_data, terminated_data]:
         df.columns = df.columns.str.strip().str.lower().str.replace("\n", "_", regex=True)

@@ -34,8 +34,8 @@ def load_data():
         if col in hr_data.columns:
             hr_data[col] = pd.to_datetime(hr_data[col], errors='coerce').dt.date
     
-    # Standardize category and employment_type values for filtering
-    for col in ["category", "employment_type"]:
+    # Standardize category, employment_type, and status_ft/pt values for filtering
+    for col in ["category", "employment_type", "status_ft/pt"]:
         if col in hr_data.columns:
             hr_data[col + "_clean"] = hr_data[col].str.replace(r"\[.*?\]", "", regex=True).str.strip().str.title()
     
@@ -71,7 +71,7 @@ if "hire_date" in hr_data.columns and "termination_date" in hr_data.columns:
 name_filter = st.sidebar.text_input("Search by Name")
 category_filter = st.sidebar.multiselect("Filter by Category", sorted(hr_data['category_clean'].dropna().unique()))
 employment_type_filter = st.sidebar.multiselect("Employment Type", sorted(hr_data['employment_type_clean'].dropna().unique()))
-status_filter = st.sidebar.multiselect("Employment Status (FT/PT)", sorted(hr_data['status_ft/pt'].dropna().unique()))
+status_filter = st.sidebar.multiselect("Employment Status (FT/PT)", sorted(hr_data['status_ft/pt_clean'].dropna().unique()))
 terminated_filter = st.sidebar.radio("Filter by Active/Terminated", ["All", "Active", "Terminated"])
 
 # Apply Filters
@@ -84,7 +84,7 @@ if category_filter:
 if employment_type_filter:
     filtered_data = filtered_data[filtered_data['employment_type_clean'].isin(employment_type_filter)]
 if status_filter:
-    filtered_data = filtered_data[filtered_data['status_ft/pt'].isin(status_filter)]
+    filtered_data = filtered_data[filtered_data['status_ft/pt_clean'].isin(status_filter)]
 if terminated_filter == "Active":
     filtered_data = filtered_data[filtered_data['terminated'] == False]
 elif terminated_filter == "Terminated":
